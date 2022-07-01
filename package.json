@@ -1,0 +1,27 @@
+{
+  "name": "blog_nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --inspect index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/black134614/nodejs_simple-blog.git"
+  },
+  "keywords": [
+    "naul",
+    "code"
+  ],
+  "author": "naul",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/black134614/nodejs_simple-blog/issues"
+  },
+  "homepage": "https://github.com/black134614/nodejs_simple-blog#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
